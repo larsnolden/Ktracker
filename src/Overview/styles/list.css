@@ -1,0 +1,12 @@
+.heading {
+  margin: 20px 0 20px 20px;
+}
+
+.list {
+  flex-basis: 50%;
+  width: 600px;
+  display: block;
+  position: relative;
+  list-style-type: none;  
+  padding: 10px;
+}

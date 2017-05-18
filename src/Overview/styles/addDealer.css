@@ -1,0 +1,10 @@
+.addDealer { 
+  width: 400px;
+  height: 200px;
+  display: inline;
+  margin-left: 20px;
+}
+
+.addDealer span {
+  font-size: 1.5em;
+}

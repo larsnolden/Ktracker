@@ -1,0 +1,6 @@
+.app .results {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  width: 100%;
+}
