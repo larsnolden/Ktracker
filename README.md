@@ -1,4 +1,4 @@
 #Track kijiji.ca ad performance
-### - frontend only
+### - MVP
 
 ![demo](Ktracker_sample.png)
